@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #-*- coding: UTF-8 -*-
+# author: 赫本z
 # 基础包：接口测试的封装
 
 import requests

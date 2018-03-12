@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# author: 赫本z
 # 业务包：通用函数
 
 

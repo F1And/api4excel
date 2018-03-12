@@ -1,10 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# author: 赫本z
 # 通用包：常量
-
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-# 脚本功能：全部变量
 
 
 CASE_NUMBER = 0  # 用例编号

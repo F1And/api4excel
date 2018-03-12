@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# author: 赫本z
 # 验证包：接口测试脚本
 
 import core.log as log
